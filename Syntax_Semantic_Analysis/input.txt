@@ -1,0 +1,14 @@
+void foo(){
+ int bar(int a);
+ #./
+}
+
+int bar(int a)
+{
+return a;
+}
+
+int main(){
+int x;
+x = 5;
+}
